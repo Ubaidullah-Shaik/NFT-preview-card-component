@@ -1,0 +1,128 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    margin: 50px 100px 200px 500px;
+}
+h1{
+    font-size: 24px;
+    font-family: 'Outfit', sans-serif;
+    margin: 0 auto auto 22px;
+    padding-top: 22px;
+    color: white;
+    
+}
+h1:hover{
+    color: hsl(180, 92%, 50%);    
+}
+
+p{
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    margin: 20px auto auto 22px;
+    width: 260px;
+    color: rgb(157, 173, 196);
+}
+hr{
+    position: relative;
+    bottom: 40px;
+    width: 290px;
+    background-color: #948e8e;
+    border: 0 none;
+    color: #817b7b;
+    height: 1px;
+   
+}
+span{
+    color: white;
+}
+span:hover{
+    color: hsl(178, 100%, 50%);
+}
+.container{
+    width: 334px;
+    height: 543px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 8px;
+}
+.nft-img{
+    width: 290px;
+    height: 275px;
+    margin-left: 22px;
+    margin-top: 20px;
+    border-radius: 8px;
+    position: relative;
+    bottom: 74px;
+    right: 22px;
+    
+}
+.nft-img:hover{
+    
+    opacity: 40%;
+}
+.view-img{
+    position: relative;
+    top: 22px;
+    width: 290px;
+    height: 275px;
+    margin-left: 22px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: hsl(172, 100%, 50%);
+}
+.icon-view{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 110px;
+    left: 122px;
+}
+.days-left{
+    position: relative;
+    bottom: 35px;
+    left: 170px;
+}
+.avatar-img{
+    width: 30px;
+    height: 30px;
+    border-image: 2px;
+    position: relative;
+    bottom: 30px;
+    left: 20px;
+}
+.ETH{
+    color: hsl(178, 100%, 50%);
+    position: relative;
+    bottom: 3px;
+    left: 2px;
+}
+.ethereum-img{
+    position: relative;
+    top: 2px;
+    right: 2px;
+}
+.days-left{
+    color: rgb(139, 172, 218);
+    position: relative;
+    bottom: 45px;
+    right: 5px;
+    font-family: 'Outfit', sans-serif;
+    font-size: 17px;
+    font-weight: bolder;
+
+}
+.clock-img{
+    color: rgb(139, 172, 218);
+    position: relative;
+}
+.name{
+    position: relative;
+    bottom: 80px;
+    left: 50px;
+    color: rgb(139, 172, 218);
+    font-size: 18px;
+}
+.attribution{
+    position: relative;
+    right: 202px;
+    top: 15px;
+    color: white;
+}
